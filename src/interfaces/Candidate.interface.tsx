@@ -5,8 +5,8 @@ interface Candidate {
     username: string;
     email: string;
     location: string;
-    htlml: string;
-    avatar_url: string;
+    html_url: string;
+    avatar: string;
     bio: string;
     company: string;
 }
