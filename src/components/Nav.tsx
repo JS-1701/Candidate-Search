@@ -6,7 +6,7 @@ const Nav = () => {
     <div className="nav" style={{wordSpacing: "ipx", justifyContent:"space-evenly", width: "15%", display:
       "flex", flexWrap: "wrap"}}>
         <Link to="/">Home</Link>
-        <Link to="/SavedCandidate">Potential Candidates</Link>
+        <Link to="/SavedCandidates">Potential Candidates</Link>
          </div>
   )
 };
